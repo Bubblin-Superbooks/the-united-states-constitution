@@ -130,3 +130,16 @@ blockquote:after {
     margin-left: 0.5vw;
     vertical-align: -0.9vw;
 }
+
+.signature{
+    margin: 2vw 0 0 5vw;
+}
+
+.signature h5 {
+    font-size: 100%;
+}
+
+.signature h6 {
+    font-style: italic;
+    margin-left: 5vw;
+}
